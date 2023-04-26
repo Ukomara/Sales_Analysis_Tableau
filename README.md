@@ -1,6 +1,5 @@
 # Sales_Analysis_Tableau
 
-
 This project is focused on analyzing sales data from multiple data tables containing details of product categories, customer group thresholds, customers, employees, order details, orders, products, shippers, and suppliers. The project's aim is to visualize popular products, low stocked products based on average daily demand, late shipments along with a label of shipper details, and sales per country.
 
 ### Data Tables
